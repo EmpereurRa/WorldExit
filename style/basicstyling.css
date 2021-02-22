@@ -1,0 +1,58 @@
+body{
+  background:cyan;
+}
+
+.bluecenter {
+  color: blue;
+  text-align: center;
+  background-color: lightgreen;
+}
+
+.bluecenter:hover {
+  color: lightblue;
+  text-align: center;
+  background-color: green;
+}
+
+.whitecenter {
+  color: black;
+  text-align: center;
+  background-color: white;
+}
+
+.whitecenter:hover {
+  color: white;
+  text-align: center;
+  background-color: gray;
+}
+
+
+.leftgen{
+  float:left;
+  text-align: center;
+}
+
+.rightgen{
+  float:right;
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.purple {
+  color: purple;
+}
+
+.blue {
+  color: blue;
+}
+
+.white{
+  color:white;
+}
